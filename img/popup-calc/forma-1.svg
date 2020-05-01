@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.062" height="31.093" viewBox="0 0 66.062 31.093">
+<!--
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?></metadata>
+-->
+<!--
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+			
+      }
+    </style>
+    <filter id="filter" x="837.969" y="826.938" width="66.062" height="31.093" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#358015"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+-->
+	
+	<style>
+      .cls-1 {
+        //fill: #fff;
+        fill-rule: evenodd;
+        //filter: url(#filter);
+				fill: #3d9b14;
+      }
+  </style>
+	
+  <path id="forma_1" data-name="Forma 1" class="cls-1" d="M860.173,837.087c-3.63-1.547-7.547.49-11.294-1.512-4.009-2.134-7.361,1.342-9.924,3.572-2.764,2.4,1.107,4.092,2.25,6.128,1.513,2.7,2.846.018,4.212,0.259,0.98,0.176,2.362-.466,2.8.808s-0.523,1.722-1.717,2.117c-3.023,1-1.68,2.752-.645,4.538,1.635,2.823,5.318,1.33,7.656,5.038a23.343,23.343,0,0,1,.2-3.838c0.5-1.7-1.341-3.906,1.532-5.167,2.6-1.145,4.129.323,5.788,1.551,1.238,0.929,2.156,2.089,3.989,1.679,2.406-.543,3.938.28,4.862,2.881,0.75,2.111,2.708,3.585,4.915,1.722,4.908-4.134,10.572-3.637,16.1-2.555,2.347,0.463,2.671-.253,2.9-1.943,0.492-3.613,2.864-5.563,5.964-6.754,1.276-.49,4.8-5.541,4.189-5.578-2.855-.176-4.106-3.6-7.007-3.357-2.987.25-4.964-.848-6.574-3.512-1.45-2.4-3.047-5.5-6.952-2.761-0.658.461-2.938-.329-3.632-1.207-2.748-3.469-5.83-2.094-9.006-1.153a42.081,42.081,0,0,1-6.671,1.7c-4,.494-3.547,3.72-2.831,5.738S861.106,837.482,860.173,837.087Z" transform="translate(-837.969 -826.938)"/>
+</svg>
