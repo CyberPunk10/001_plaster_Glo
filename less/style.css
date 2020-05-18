@@ -733,8 +733,7 @@ footer .footer-by_created p {
   background-size: 50%;
 }
 /* Модальные окна */
-/* Обобщённые настройки */
-#popup-bg {
+.container-blur {
   position: fixed;
   top: 0;
   left: 0;
@@ -746,7 +745,23 @@ footer .footer-by_created p {
   background-color: rgba(0, 0, 0, 0.5);
   animation-duration: 0.2s;
 }
-#popup-bg .popup-wrap {
+.blur {
+  -webkit-filter: blur(3px);
+  filter: blur(3px);
+}
+/* Обобщённые настройки */
+#popup-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 2;
+  height: 100%;
+  width: 100%;
+  animation-duration: 0.2s;
+}
+.popup-wrap {
   position: fixed;
   left: 50%;
   transform: translateX(-50%);
@@ -754,15 +769,15 @@ footer .footer-by_created p {
   padding: 3.55rem 4.8rem 4.8rem;
   background-color: #fff;
 }
-#popup-bg .popup-content {
+.popup-content {
   text-align: center;
   font-size: 1.5rem;
 }
-#popup-bg .popup-content h4 {
+.popup-content h4 {
   font-family: 'ProximaNova_Bold', sans-serif;
   font-size: 1.8rem;
 }
-#popup-bg .popup-close {
+.popup-close {
   position: absolute;
   top: -4rem;
   right: -4.8rem;
@@ -773,10 +788,10 @@ footer .footer-by_created p {
   text-align: center;
   color: #fff;
 }
-#popup-bg .popup-close:hover {
+.popup-close:hover {
   background-color: transparent;
 }
-#popup-bg .popup-form {
+.popup-form {
   padding: 0;
   margin-top: 3rem;
 }
