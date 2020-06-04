@@ -6,7 +6,7 @@
 
 ## Моё портфолио:
 
-### [Моё резюме и оно же - часть портфолио](https://cyberpunk10.github.io/resume_CyberPunk10/app/index.html "Моё резюме, перейти на сайт")
+### [Моё резюме и оно же - часть портфолио](https://cyberpunk10.github.io/resume_CyberPunk10/dist "Моё резюме, перейти на сайт")
   - **Цель:** сделать небольшую шпаргалку для визуального просмотра сетки Bootstrap, чтобы дизайнеру проще было понять устройство сетки
   
 ### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/trainingProject__Practics-JS_code.mu/. "Практика минипроекты JavaScript, перейти на сайт")
