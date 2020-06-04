@@ -17,7 +17,7 @@
   - **Цель:** увеличить практику верстки проекстов с нуля, довести проект до выкладки на хостинг.
   - **Технологии:** LESS, Bootstrap4, JS, jQuery
 
-- ### [Пример сетки bootstrap - интерактивная страничка + PSD](https://cyberpunk10.github.io/Example-Grid-Bootsrap "Пример сетки Bootstrap")
+- ### [Пример сетки bootstrap - интерактивная страничка + PSD](https://cyberpunk10.github.io/Example-Grid-Bootsrap/. "Пример сетки Bootstrap")
 
   - **Цель:** сделать небольшую шпаргалку для визуального просмотра сетки Bootstrap
 
