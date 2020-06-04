@@ -4,7 +4,7 @@
 
 [Страничка ВК](https://vk.com/cyberpunk10), [Страничка codepen](https://codepen.io/CyberPunk10).
 
-Моё портфолио:
++ Моё портфолио:
 
 ### [Моё резюме](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
 
