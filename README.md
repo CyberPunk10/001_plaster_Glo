@@ -8,9 +8,9 @@
 
 ### [Вёрстка макета от "Академии верстки"](https://cyberpunk10.github.io/trainingProject__plaster_Glo "Перейти на сайт")
 
-- Цель: увеличить практику верстки проекстов с нуля, довести проект до выкладки на хостинг.
-
-- Технологии: LESS, Bootstrap4, JS, jQuery
+> Цель: увеличить практику верстки проекстов с нуля, довести проект до выкладки на хостинг.
+>
+> Технологии: LESS, Bootstrap4, JS, jQuery
 
 
 ### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/trainingProject__Practics-JS_code.mu/. "Практика минипроекты JavaScript")
