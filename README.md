@@ -4,11 +4,9 @@
 
 [Страничка ВК](https://vk.com/cyberpunk10), [Страничка codepen](https://codepen.io/CyberPunk10).
 
-Моё резюме:
-
-### ["Моё резюме"](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
-
 Моё портфолио:
+
+### [Моё резюме](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
 
 ### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/trainingProject__Practics-JS_code.mu/. "Практика минипроекты JavaScript")
 
