@@ -6,7 +6,7 @@
 
 Моё резюме:
 
-### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
+### ["Моё резюме"](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
 
 Моё портфолио:
 
