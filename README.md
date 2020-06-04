@@ -5,7 +5,7 @@
 
 Моё портфолио:
 
-[Вёрстка макета от "Академии верстки" - HTML5, CSS3 (LESS), Bootstrap4, JS, jQuery]( https://cyberpunk10.github.io/01_OS.14.21.013.Academ-FOR-PORTFOLIO-HTML-CSS_on_bootstrap-index.html "Перейти на сайт")
+[Вёрстка макета от "Академии верстки" - HTML5, CSS3 (LESS), Bootstrap4, JS, jQuery](https://cyberpunk10.github.io/trainingProject__plaster_Glo "Перейти на сайт")
 
 ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/Practice-JS "Практика минипроекты JavaScript") Код на [codepen](https://codepen.io/CyberPunk10/pen/JjdvMqE "Практика минипроекты JavaScript")
 
