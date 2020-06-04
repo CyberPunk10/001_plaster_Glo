@@ -4,6 +4,10 @@
 
 [Страничка ВК](https://vk.com/cyberpunk10), [Страничка codepen](https://codepen.io/CyberPunk10).
 
+Моё резюме:
+
+### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/resume_CyberPunk10/. "Моё резюме")
+
 Моё портфолио:
 
 ### ["Практика минипроекты JavaScript" (Преподаватель: Трепачёв Дмитрий, автор сайта code.mu)](https://cyberpunk10.github.io/trainingProject__Practics-JS_code.mu/. "Практика минипроекты JavaScript")
@@ -20,3 +24,5 @@
 ### [Пример сетки bootstrap - интерактивная страничка + PSD](https://cyberpunk10.github.io/Example-Grid-Bootsrap "Пример сетки Bootstrap")
 
 - **Цель:** сделать небольшую шпаргалку для визуального просмотра сетки Bootstrap
+
+### 
